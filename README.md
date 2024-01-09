@@ -2,12 +2,6 @@
 
 ## Notes
 
-### Testnet account ID
-
-Deployed at `v1.social08.testnet`
-
-<https://explorer.testnet.near.org/accounts/v1.social08.testnet>
-
 ### Mainnet account ID
 
 Deployed at `social.near`
